@@ -38,14 +38,6 @@ O usuário escolhe uma opção e informa os valores necessários para realizar o
 * **Atribuições**: Definição de cálculos e passagem de valores para as variáveis.
 
 
-## Estruturas utilizadas
-
-- Variáveis
-- Entrada de dados
-- Saída de dados
-- Estrutura condicional `Se`
-- Estrutura de repetição `Enquanto`
-- Atribuições
 
 ## Ferramenta utilizada
 
