@@ -10,6 +10,7 @@ com diferentes operações matemáticas e um menu interativo.
 ## Integrante
 
 - RAYKA LETICIA MUNIZ DOS SANTOS
+- RGM: 47473819
 
 ## Funções disponíveis
 
